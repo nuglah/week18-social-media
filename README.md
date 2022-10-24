@@ -11,6 +11,8 @@ After starting the app in the command line. Try viewing the different routes for
 ## Usage
 
 Using postman all the routes were tested
+link to video demo
+https://drive.google.com/file/d/1WpN3RUobQX0icQe504UT3kxQ8_pH5UCP/view?usp=sharing
 
 ![alt text](assets/images/screen1.png)
 ![alt text](assets/images/screen2.png)
