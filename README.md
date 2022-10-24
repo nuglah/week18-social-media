@@ -13,4 +13,4 @@ After starting the app in the command line. Try viewing the different routes for
 Using postman all the routes were tested
 
 ![alt text](assets/images/screen1.png)
-![alt text](assets/images/screen1.png)
+![alt text](assets/images/screen2.png)
