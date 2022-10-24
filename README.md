@@ -1,4 +1,4 @@
-# <Social-Media-Api>
+# Social-Media-Api
 
 ## Description
 
